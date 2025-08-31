@@ -6,7 +6,7 @@ It outlines the basic structure and layout without focusing on detailed design e
 
 The main goal of wireframing is to provide a **clear structure** of how information and elements will be arranged, ensuring that functionality and user experience remain at the center of the design process.
 
----
+
 
 ## Key Elements of Wireframing
 Wireframes are built around a few key elements that ensure clarity and usability:
@@ -27,7 +27,7 @@ Wireframes are built around a few key elements that ensure clarity and usability
   Outlines key functionalities and interactions.  
   *Example: Indicating where a search bar will be placed and how it should respond when a user types in it.*
 
----
+
 
 ## Types of Wireframes
 
@@ -46,7 +46,7 @@ Wireframes can vary in **fidelity** depending on the stage of the design process
 ➡️ **What Type of Wireframe is Shown in the Link?**  
 The link shows a High-Fidelity Wireframe because it includes detailed UI elements, colors, images, and fonts, making it very close to the final product design.
 
----
+
 
 ## Wireframing Tools
 There are several popular tools for creating wireframes, such as:
@@ -62,7 +62,7 @@ Among these, **Figma** is highly recommended because it:
 - Provides a wide range of **UI kits and templates**.
 - Integrates smoothly with other design and development workflows.
 
----
+
 
 ## Benefits of Wireframing in Software Development
 
@@ -75,7 +75,7 @@ Wireframing offers multiple benefits during the software development lifecycle:
 - **Saves Time and Resources**: Avoids costly redesigns during coding by solving problems early.  
 - **Guides the Design Process**: Acts as a foundation for high-fidelity designs and final implementation.  
 
----
+
 
 ## Wireframing in Practice
 
@@ -94,4 +94,4 @@ The redesign improved overall **student engagement** and significantly **reduced
 This case illustrates how **wireframing plays a vital role in identifying usability issues early**. By testing and adjusting the design before development, the team was able to deliver a platform that was user-friendly, efficient, and aligned with the needs of its target audience.  
 
 
----
+
